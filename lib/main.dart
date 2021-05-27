@@ -86,6 +86,7 @@ class RokyCard extends StatelessWidget {
               color: Colors.black,
             ),
 
+            //llllgit init
 
             SizedBox(height: 10.0),
             Divider(height: 10.0,),
